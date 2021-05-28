@@ -1,0 +1,28 @@
+{
+  "name": "deploy-pokemon",
+  "version": "1.0.0",
+  "description": "Deploy with NodeJS, Express, React, for pokemon API FULL REST",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlangas11/Deploy-pokemon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlangas11/Deploy-pokemon/issues"
+  },
+  "homepage": "https://github.com/Carlangas11/Deploy-pokemon#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cookie-parser": "^1.4.5",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
